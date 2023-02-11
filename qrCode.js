@@ -9,3 +9,5 @@ function qrGenerator(url) {
 module.exports = function (url) {
     qrGenerator(url)
 }
+
+// "qrcode": "^1.5.1"
